@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+    xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2"
+    Version="1.0.0.0" 
+    Uri="https://PopcornDev.github.io/free-movie-hd/appset.appinstaller">
+    <MainBundle
+        Version="1.0.0.0" 
+        Publisher="CN=1256AB2B-CD4F-49E1-A8A1-59B50F55DFF2" 
+        Name="32778OneMovies.FreeMoviesHD"
+        Uri="https://www.dropbox.com/s/2a1ibqpr2rh3amq/free-movie-hd_1.0.0.0?dl=1" />
+</AppInstaller>
